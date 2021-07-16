@@ -1989,6 +1989,7 @@ overflow: hidden;
 float: left;
 margin: 0 10px;
 text-align: center;
+height: 400px;
 /*padding-top: 25px;*/
 }
 .line {
